@@ -1,3 +1,2 @@
 Hello World
-
-Selamat pagiii
+Hello Dunia
